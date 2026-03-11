@@ -1,7 +1,7 @@
-a= int(input("Enter a number: "))
-b= int(input("Enter another number: "))
+a = 5
+b = 2
 
-if a > b:
-    print(a)
+if a  b: #dopln kod
+    print("Pravda")
 else :
     print("Chyba")
